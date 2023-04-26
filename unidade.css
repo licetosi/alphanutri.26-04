@@ -1,0 +1,216 @@
+* {
+    margin: 0;
+    padding: 0;
+
+  }
+  
+  
+  .alpha {
+    background-color: #F9D1AC;
+  }
+  
+  
+  .segundocabeçalho {
+    background-color: #e3b488;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    height: 30px;
+  
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 17px;
+  
+  }
+  
+  .mm:hover a {
+    color: #e3b488;
+  }
+  
+  
+  .mm {
+    background-color: #e3b488;
+    color: black;
+    width: 240px;
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+  }
+  
+  .mm:hover {
+    color: #e3b488;
+    background-color: rgb(0, 0, 0);
+  
+  }
+  
+  .MARQUE {
+    background-color: #000000;
+    color: #e3b488;
+    width: 290px;
+    height: 30px;
+    border-radius: 50px;
+    transition: all 0.3s ease;
+  }
+  
+  .MARQUE:hover {
+    color: #000000;
+    background-color: #000000;
+  }
+  
+  .MARQUE:hover a {
+    color: #e3b488;
+  }
+  
+  .marque {
+    margin: 1cm;
+    font-size: 17px;
+    color: #e3b488;
+    width: 300px;
+    height: 30px;
+  }
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    background-color:seashell;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+
+.clínica {
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.imgimg img {
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    border-radius: 200px;
+    border: 1px solid #000000;
+    margin-top: 1cm;
+    opacity:calc(0.8);
+}
+
+.txtcns h1 {
+    position: relative;
+    margin-top: 1cm;
+    top: -380px;
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    text-shadow:
+        -1px 1px 0px #ffffff,
+        1px 0px 0px #ffffff;
+}
+
+iframe {
+    width: 100%;
+    margin-top: 2%;
+}
+
+.mtt h3 {
+    position: relative;
+    top: -530px;
+    color: rgb(0, 0, 0);
+}
+
+p {
+
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-size: 20px;
+}
+
+.bolinhas img {
+    width: 199px;
+    height: 199px;
+    border-radius: 100%;
+    margin: -130px 100px 0px 0px;
+}
+
+.bolinhas img:hover {
+    -webkit-box-shadow: 0px 0px 50px #000000;
+}
+
+
+
+h3 {
+    margin-top:10%;
+    text-shadow:
+        -1px 1px 0px #ffffff,
+        1px -1px 0px #ffffff,
+        1px 0px 0px #ffffff;
+}
+
+
+
+.conteiner {
+    background-color: #F9D1AC;
+    margin-top: 2cm;
+}
+
+.h2{
+    padding-top: 20px;
+    padding-left: 70px;
+    font-size:large;
+}
+
+.logosdofinal {
+    display: flex;
+    margin-left: 6%;
+    margin-top: -30px;
+}
+
+.instagram{
+    width: 30px;
+    height: 30px;
+    margin: 37px 0px 0px 25px;
+}
+
+.gmail{
+    width: 32px;
+    height: 28px;
+    margin: 38px 30px 0px 0px;
+}
+
+.whatsapp{
+    width: 33px;
+    height: 33px;
+    margin: 35px 0px 0px 0px;
+}
+
+
+.maps{
+    width: 25px;
+    height: 31px;
+    margin: 35px 30px 0px 30px;
+}
+
+.img-solta{
+    width: 4cm;
+    position: relative;
+    top: -20px;
+    right: -25%;
+}
+
+.conteiner h4{
+    width: 185px;
+    position: relative;
+    margin-left: 83%;
+    top: -100px;
+    text-align:right;
+}
+
+.conteiner h5{
+    text-decoration: underline;
+    margin-top: -5%;
+    margin-left: 87%;
+}
+
+
+
+
